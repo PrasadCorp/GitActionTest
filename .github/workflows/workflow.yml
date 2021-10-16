@@ -29,7 +29,7 @@ jobs:
           branch: gh-pages # The branch the action should deploy to.
           folder: build # The folder the action should deploy.        
 
-      - name: Deploy AWS
+      - name: Deploy AWS S3
         uses: jakejarvis/s3-sync-action@master
         with:
           args: --acl public-read --follow-symlinks --delete
