@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/gitaction/static/css/main.a617e044.chunk.css",
-    "main.js": "/gitaction/static/js/main.358296e9.chunk.js",
-    "main.js.map": "/gitaction/static/js/main.358296e9.chunk.js.map",
-    "runtime-main.js": "/gitaction/static/js/runtime-main.2cd6689c.js",
-    "runtime-main.js.map": "/gitaction/static/js/runtime-main.2cd6689c.js.map",
-    "static/js/2.28bc7be0.chunk.js": "/gitaction/static/js/2.28bc7be0.chunk.js",
-    "static/js/2.28bc7be0.chunk.js.map": "/gitaction/static/js/2.28bc7be0.chunk.js.map",
-    "static/js/3.8f7845ef.chunk.js": "/gitaction/static/js/3.8f7845ef.chunk.js",
-    "static/js/3.8f7845ef.chunk.js.map": "/gitaction/static/js/3.8f7845ef.chunk.js.map",
-    "index.html": "/gitaction/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/gitaction/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.28bc7be0.chunk.js.LICENSE.txt": "/gitaction/static/js/2.28bc7be0.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/gitaction/static/media/logo.6ce24c58.svg"
+    "main.css": "/GitActionTest/static/css/main.a617e044.chunk.css",
+    "main.js": "/GitActionTest/static/js/main.358296e9.chunk.js",
+    "main.js.map": "/GitActionTest/static/js/main.358296e9.chunk.js.map",
+    "runtime-main.js": "/GitActionTest/static/js/runtime-main.b33b6f88.js",
+    "runtime-main.js.map": "/GitActionTest/static/js/runtime-main.b33b6f88.js.map",
+    "static/js/2.28bc7be0.chunk.js": "/GitActionTest/static/js/2.28bc7be0.chunk.js",
+    "static/js/2.28bc7be0.chunk.js.map": "/GitActionTest/static/js/2.28bc7be0.chunk.js.map",
+    "static/js/3.8f7845ef.chunk.js": "/GitActionTest/static/js/3.8f7845ef.chunk.js",
+    "static/js/3.8f7845ef.chunk.js.map": "/GitActionTest/static/js/3.8f7845ef.chunk.js.map",
+    "index.html": "/GitActionTest/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/GitActionTest/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.28bc7be0.chunk.js.LICENSE.txt": "/GitActionTest/static/js/2.28bc7be0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GitActionTest/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cd6689c.js",
+    "static/js/runtime-main.b33b6f88.js",
     "static/js/2.28bc7be0.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.358296e9.chunk.js"
