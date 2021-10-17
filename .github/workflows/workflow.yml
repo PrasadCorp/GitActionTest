@@ -23,11 +23,11 @@ jobs:
       - name: Test
         run: npm test
         
-      - name: Deploy GIT
-        uses: JamesIves/github-pages-deploy-action@4.1.1
-        with:
-          branch: gh-pages # The branch the action should deploy to.
-          folder: build # The folder the action should deploy.        
+#      - name: Deploy GIT
+#        uses: JamesIves/github-pages-deploy-action@4.1.1
+#        with:
+#          branch: gh-pages # The branch the action should deploy to.
+#          folder: build # The folder the action should deploy.        
 
       - name: Deploy AWS S3
         uses: jakejarvis/s3-sync-action@master
